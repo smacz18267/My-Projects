@@ -8,4 +8,6 @@ https://github.com/smacz18267/Automating-Dino-Game/tree/main
 https://github.com/smacz18267/Rock-Paper-Scissors-game
 - Project 4: Stock Prediction Model
 https://github.com/smacz18267/Stock-Prediction-Model/tree/main
+- Project 5: Finger Counter
+https://github.com/smacz18267/Finger-Counter
 
