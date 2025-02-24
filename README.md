@@ -6,3 +6,6 @@ https://github.com/smacz18267/Replicating-Enigma-Machine
 https://github.com/smacz18267/Automating-Dino-Game/tree/main
 - Project 3: Playing the classic rock paper scissors game with AI
 https://github.com/smacz18267/Rock-Paper-Scissors-game
+- Project 4: Stock Prediction Model
+https://github.com/smacz18267/Stock-Prediction-Model/tree/main
+
