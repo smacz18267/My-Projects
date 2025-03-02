@@ -10,4 +10,5 @@ https://github.com/smacz18267/Rock-Paper-Scissors-game
 https://github.com/smacz18267/Stock-Prediction-Model/tree/main
 - Project 5: Finger Counter
 https://github.com/smacz18267/Finger-Counter
-
+- Project 6: Cyber Intrusion Detection System
+https://github.com/smacz18267/Intrusion-Detection-System
